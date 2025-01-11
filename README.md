@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, Phyton, Java, Game Dev(Unity)**
 
-- 👨‍💻 All of my projects are available at [https://isthmusx.github.io](https://alhaddi-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://alhaddi-portfolio.vercel.app/)
 
 - 📫 How to reach me **jpaul.alhaddi@gmail.com**
 
