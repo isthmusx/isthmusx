@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **C#, Phyton, Java, Game Dev(Unity)**
+- 🌱 I’m currently learning **Node, Express, React, NextJs**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://alhaddi-portfolio.vercel.app/)
 
